@@ -2,7 +2,7 @@
 function navbar() {
   var directive = {
     link: link,
-    templateUrl: 'components/navbar/navbar.directive.html',
+    templateUrl: 'navbar.directive.html',
     restrict: 'EA'
   };
   return directive;

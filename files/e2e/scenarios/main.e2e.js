@@ -1,4 +1,4 @@
-var MainPage = require('../page-objects/main.po');
+var MainPage = require('../page-objects/main.po.js');
 
 describe('Main View', function() {
   var mainPage = new MainPage();

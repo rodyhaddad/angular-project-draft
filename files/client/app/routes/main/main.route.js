@@ -2,7 +2,7 @@
 function mainRouteConfig($routeProvider) {
   $routeProvider
     .when('/', {
-      templateUrl: 'routes/main/main.html',
+      templateUrl: 'main.html',
       controller: 'MainCtrl',
       controllerAs: 'MainCtrl'
     });
