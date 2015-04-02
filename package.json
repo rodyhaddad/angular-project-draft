@@ -14,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/rodyhaddad/angular-project-draft/issues"
   },
-  "homepage": "https://github.com/rodyhaddad/angular-project-draft"
+  "homepage": "https://github.com/rodyhaddad/angular-project-draft",
+  "keywords": ["ember-addon"]
 }

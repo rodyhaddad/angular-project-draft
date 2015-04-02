@@ -1,3 +1,3 @@
-{
-  description: 'A blueprint for AngularJS'
+module.exports = {
+    name: 'Angular Project Draft'
 }
